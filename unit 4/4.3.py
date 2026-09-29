@@ -15,8 +15,3 @@ y1 = yuvraj(1,'yuvraj')
 y1.sinh()
 y2 = yuvraj(2,'sinh')
 y2.sinh()
-
-
-
-
-
